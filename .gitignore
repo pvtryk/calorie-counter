@@ -37,3 +37,5 @@ yarn-error.log*
 # phpstorn
 ./.idea
 .idea
+
+.env
